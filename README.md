@@ -1,6 +1,6 @@
 # ReceiptProcessor
 
-Summary of API Specification
+# Summary of API Specification
 Endpoint: Process Receipts
 Path: /receipts/process
 Method: POST
